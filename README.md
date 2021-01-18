@@ -2,6 +2,14 @@
 Twitter data sentiment Analysis
 The contest URL: https://datahack.analyticsvidhya.com/contest/linguipedia-codefest-natural-language-processing-1/
 
+
+This repository consists of files required to deploy a Machine Learning Web App created with Flask on Heroku platform.
+
+If you want to view the deployed model, click on the following link:
+Deployed at:
+https://sentimentanalysistwitterapp.herokuapp.com/
+
+
 ## About Problem: Identify the Sentiments
 Sentiment analysis is contextual mining of text which identifies and extracts subjective information in source material, and helping a business to understand the social sentiment of their brand, product or service while monitoring online conversations. Brands can use this data to measure the success of their products in an objective manner. In this challenge, you are provided with tweet data to predict sentiment on electronic products of netizens.
 
